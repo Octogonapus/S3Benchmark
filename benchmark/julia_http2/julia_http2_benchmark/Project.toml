@@ -1,0 +1,11 @@
+[deps]
+CloudBase = "85eb1798-d7c4-4918-bb13-c944d38e27ed"
+CloudStore = "3365d9ee-d53b-4a56-812d-5344d5b716d7"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HTTP2 = "b77c38ae-d26b-ff15-6dc9-5bc94be9e2a6"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LibAwsCal = "ef519ef6-af43-41a0-8ac4-eb81328190af"
+LibAwsCommon = "c6e421ba-b5f8-4792-a1c4-42948de3ed9d"
+LibAwsCompression = "51c8708f-2dd9-446d-a0d4-ba9f49ba4b23"
+LibAwsHTTP = "ce851869-0d7a-41e7-95ef-2d4cb63876dd"
+LibAwsIO = "a5388770-19df-4151-b103-3d71de896ddf"
